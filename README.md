@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=SowmyaKurapati26&label=Profile%20views&color=0e75b6&style=flat" alt="SowmyaKurapati26" />
 </p>
 
-<h3 align="center">B.Tech CSE Student | Full-Stack Enthusiast | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 
 - 🎓 Undergraduate B.Tech in Computer Science (CGPA: 9.15/10)  
 - 💻 Passionate about **coding, AI, web development, and problem-solving**  
-- 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, and Android development**  
+- 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, and Machine Learning**  
 - 📌 Open to **collaborations, internships, and impactful projects**  
 
 ---
