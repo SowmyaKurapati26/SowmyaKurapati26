@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me
+## 🚀 Meet Me
 
 - 🎓 Undergraduate B.Tech in Computer Science (CGPA: 9.15/10)  
 - 💻 Passionate about **coding, AI, web development, and problem-solving**  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 My Toolbox
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Current Focus
+## 🚀 What I'm Building
 
 <details>
 <summary>Click to Expand 🌱</summary>
@@ -48,37 +48,7 @@
 
 ---
 
-## 💻 Projects
-
-<details>
-<summary>Click to Expand Projects 🚀</summary>
-
-### [FraudShield – Credit Card Fraud Detection](https://github.com/SowmyaKurapati26/FraudShield) | [Live Demo](https://sowmyakurapati26-fraudshield-app-odjhuc.streamlit.app/)
-- AI web app to detect fraudulent credit card transactions.  
-- Trained ML models achieving **0.98 ROC-AUC**.  
-- Real-time predictions with CSV upload and downloadable reports.
-
-### [ExpiryTrack – Smart Food Management](https://github.com/SowmyaKurapati26/ExpiryTrack) | [Live Demo](https://smart-bite-5xut.onrender.com)
-- Tracks **expiry dates** using OCR & computer vision.  
-- Email notifications & recipe suggestions reduced food waste by **40%**.
-
-### [MessageMate – Real-time Chat App](https://github.com/SowmyaKurapati26/MessageMate)
-- JWT authentication, protected routes, online presence, and 1:1 messaging using **Socket.IO**.
-
-### [Artiva](https://github.com/Bhavya0420/Artiva)
-- Platform for artists to showcase and sell artworks. Built with HTML, CSS, JS, PHP & MySQL.
-
-### [Amazon Clone](https://github.com/Bhavya0420/Amazon-clone)
-- Front-end clone of Amazon using HTML and CSS.
-
-### [Calculator](https://github.com/Bhavya0420/Calculator)
-- Interactive calculator built with HTML, CSS, and JS.
-
-</details>
-
----
-
-## 🏆 Achievements
+## 🏅 Milestones & Wins
 
 - 🥇 77th Global Rank on [CodeChef](https://www.codechef.com/users/kvns_26)  
 - 💻 Solved 600+ problems on [LeetCode](https://leetcode.com/u/Sowmya_Kurapati26/)  
@@ -90,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SowmyaKurapati26&show_icons=true&theme=radical" />
@@ -99,7 +69,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sowmya-kurapati-a74a962a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Kurapati%20Sowmya-blue?style=flat-square&logo=linkedin" /></a>
@@ -109,12 +79,9 @@
 
 ---
 
-## ⚡ Fun Facts
+## ✨ Spark Notes
 
 - ☕ Powered by coffee and code  
 - 🎮 Gamer & puzzle lover  
 - 🐱 Cat enthusiast  
 - 🐛 Favorite debugging tool: `console.log()`  
-
----
-
