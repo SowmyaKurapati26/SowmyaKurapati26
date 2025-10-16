@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm Kurapati Venkata Naga Sowmya
+# ✨ Hey There, ! I'm Kurapati Venkata Naga Sowmya
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SowmyaKurapati26&label=Profile%20views&color=0e75b6&style=flat" alt="SowmyaKurapati26" />
 </p>
 
-<h3 align="center">B.Tech CSE Student | Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Enthusiast | AI Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -34,19 +34,6 @@
 
 ---
 
-## 🚀 What I'm Building
-
-<details>
-<summary>Click to Expand 🌱</summary>
-
-- **Building:** Full-stack applications with React.js, Node.js, Express.js, MongoDB  
-- **Exploring:** AI & ML integrations (OpenAI, Hugging Face)  
-- **Mastering:** Advanced DSA, system design, and scalable architectures  
-- **Developing:** Real-time apps, B2B SaaS platforms, and enterprise solutions  
-
-</details>
-
----
 
 ## 🏅 Milestones & Wins
 
@@ -57,6 +44,21 @@
 - 🥈 2nd place in AlgoZenith Club coding competition  
 - 🎓 Elite certifications in **DSA** and **Machine Learning (NPTEL)**  
 - 🧑‍🏫 Selected as 1 of 24 mentors out of 200+ applicants at SmartInterviews  
+
+---
+
+## 🧠 Coding Profiles
+
+Explore my competitive programming profiles and coding journey:
+
+- **[SmartInterviews Hive](https://hive.smartinterviews.in/profile/sowmya_kurapati)** – DSA Mentor & active participant  
+- **[Codeforces](https://codeforces.com/profile/sowmya_kurapati26)** – Regular contests & problem-solving  
+- **[SPOJ](https://www.spoj.com/users/kvnsowmya26)** – Wide range of solutions  
+- **[InterviewBit](https://www.interviewbit.com/profile/sowmya-kurapati_361)** – Coding interview preparation  
+- **[GeeksforGeeks](https://www.geeksforgeeks.org/user/kurapatiex20/)** – Solving algorithmic problems  
+- **[CodeChef](https://www.codechef.com/users/kvns_26)** – 77th Global Rank, 5-Star Python & Java  
+- **[LeetCode](https://leetcode.com/u/Sowmya_Kurapati26/)** – 600+ problems solved  
+- **[HackerRank](https://www.hackerrank.com/profile/kurapatisowmya1)** – 6-Star Problem Solver  
 
 ---
 
@@ -78,10 +80,3 @@
 </p>
 
 ---
-
-## ✨ Spark Notes
-
-- ☕ Powered by coffee and code  
-- 🎮 Gamer & puzzle lover  
-- 🐱 Cat enthusiast  
-- 🐛 Favorite debugging tool: `console.log()`  
