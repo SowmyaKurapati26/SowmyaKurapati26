@@ -49,18 +49,15 @@
 
 ## 🧠 Coding Profiles
 
-Explore my competitive programming profiles and coding journey:
+[![SmartInterviews](https://img.icons8.com/color/48/000000/code.png)](https://hive.smartinterviews.in/profile/sowmya_kurapati)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/sowmya_kurapati26)
+[![SPOJ](https://img.icons8.com/color/48/000000/code-file.png)](https://www.spoj.com/users/kvnsowmya26)
+[![InterviewBit](https://upload.wikimedia.org/wikipedia/commons/e/e8/Interviewbit_logo.png)](https://www.interviewbit.com/profile/sowmya-kurapati_361)
+[![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/kurapatiex20/)
+[![CodeChef](https://img.icons8.com/color/48/000000/codechef.png)](https://www.codechef.com/users/kvns_26)
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/Sowmya_Kurapati26/)
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/profile/kurapatisowmya1)
 
-- **[SmartInterviews Hive](https://hive.smartinterviews.in/profile/sowmya_kurapati)** – DSA Mentor & active participant  
-- **[Codeforces](https://codeforces.com/profile/sowmya_kurapati26)** – Regular contests & problem-solving  
-- **[SPOJ](https://www.spoj.com/users/kvnsowmya26)** – Wide range of solutions  
-- **[InterviewBit](https://www.interviewbit.com/profile/sowmya-kurapati_361)** – Coding interview preparation  
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/user/kurapatiex20/)** – Solving algorithmic problems  
-- **[CodeChef](https://www.codechef.com/users/kvns_26)** – 77th Global Rank, 5-Star Python & Java  
-- **[LeetCode](https://leetcode.com/u/Sowmya_Kurapati26/)** – 600+ problems solved  
-- **[HackerRank](https://www.hackerrank.com/profile/kurapatisowmya1)** – 6-Star Problem Solver  
-
----
 
 ## 📈 GitHub Insights
 
