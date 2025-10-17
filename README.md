@@ -50,9 +50,6 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://hive.smartinterviews.in/profile/sowmya_kurapati" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/code.png" alt="SmartInterviews"/>
-  </a>
   <a href="https://codeforces.com/profile/sowmya_kurapati26" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>
   </a>
