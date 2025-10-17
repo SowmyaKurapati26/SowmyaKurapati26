@@ -49,14 +49,33 @@
 
 ## 🧠 Coding Profiles
 
-[![SmartInterviews](https://img.icons8.com/color/48/000000/code.png)](https://hive.smartinterviews.in/profile/sowmya_kurapati)
-[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/sowmya_kurapati26)
-[![SPOJ](https://img.icons8.com/color/48/000000/code-file.png)](https://www.spoj.com/users/kvnsowmya26)
-[![InterviewBit](https://upload.wikimedia.org/wikipedia/commons/e/e8/Interviewbit_logo.png)](https://www.interviewbit.com/profile/sowmya-kurapati_361)
-[![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/kurapatiex20/)
-[![CodeChef](https://img.icons8.com/color/48/000000/codechef.png)](https://www.codechef.com/users/kvns_26)
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/Sowmya_Kurapati26/)
-[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/profile/kurapatisowmya1)
+<p align="center">
+  <a href="https://hive.smartinterviews.in/profile/sowmya_kurapati" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/code.png" alt="SmartInterviews"/>
+  </a>
+  <a href="https://codeforces.com/profile/sowmya_kurapati26" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>
+  </a>
+  <a href="https://www.spoj.com/users/kvnsowmya26" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/code-file.png" alt="SPOJ"/>
+  </a>
+  <a href="https://www.interviewbit.com/profile/sowmya-kurapati_361" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Interviewbit_logo.png" alt="InterviewBit" width="48" height="48"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kurapatiex20/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="48" height="48"/>
+  </a>
+  <a href="https://www.codechef.com/users/kvns_26" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/>
+  </a>
+  <a href="https://leetcode.com/u/Sowmya_Kurapati26/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/kurapatisowmya1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="48" height="48"/>
+  </a>
+</p>
+
 
 
 ## 📈 GitHub Insights
