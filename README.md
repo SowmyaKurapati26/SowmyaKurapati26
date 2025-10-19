@@ -36,7 +36,7 @@
 
 
 ## 🏅 Milestones & Wins
-
+- 🏆 Selected as WebDev Lead for Google Developer Groups (GDG) on campus @SVECW
 - 🥇 77th Global Rank on [CodeChef](https://www.codechef.com/users/kvns_26)  
 - 💻 Solved 600+ problems on [LeetCode](https://leetcode.com/u/Sowmya_Kurapati26/)  
 - ⭐ 5-Star Python & Java, 6-Star Problem Solving on [HackerRank](https://www.hackerrank.com/profile/kurapatisowmya1)  
