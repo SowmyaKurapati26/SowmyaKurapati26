@@ -35,46 +35,6 @@
 ---
 
 
-## 🏅 Milestones & Wins
-- 🏆 Selected as WebDev Lead for Google Developer Groups (GDG) on campus @SVECW
-- 🥇 77th Global Rank on [CodeChef](https://www.codechef.com/users/kvns_26)  
-- 💻 Solved 600+ problems on [LeetCode](https://leetcode.com/u/Sowmya_Kurapati26/)  
-- ⭐ 5-Star Python & Java, 6-Star Problem Solving on [HackerRank](https://www.hackerrank.com/profile/kurapatisowmya1)  
-- 🏅 Diamond Certificate in Smart Coder Program ([Link](https://smartinterviews.in/certificate/8f8eb3a3))  
-- 🥈 2nd place in AlgoZenith Club coding competition  
-- 🎓 Elite certifications in **DSA** and **Machine Learning (NPTEL)**  
-- 🧑‍🏫 Selected as 1 of 24 mentors out of 200+ applicants at SmartInterviews  
-
----
-
-## 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/sowmya_kurapati26" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>
-  </a>
-  <a href="https://www.spoj.com/users/kvnsowmya26" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/code-file.png" alt="SPOJ"/>
-  </a>
-  <a href="https://www.interviewbit.com/profile/sowmya-kurapati_361" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Interviewbit_logo.png" alt="InterviewBit" width="48" height="48"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/kurapatiex20/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="48" height="48"/>
-  </a>
-  <a href="https://www.codechef.com/users/kvns_26" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/>
-  </a>
-  <a href="https://leetcode.com/u/Sowmya_Kurapati26/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/kurapatisowmya1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="48" height="48"/>
-  </a>
-</p>
-
-
-
 ## 📈 GitHub Insights
 
 <p align="center">
