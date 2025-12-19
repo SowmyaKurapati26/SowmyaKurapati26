@@ -1,8 +1,5 @@
 # ✨ Hey There ! I'm Kurapati Venkata Naga Sowmya
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SowmyaKurapati26&label=Profile%20views&color=0e75b6&style=flat" alt="SowmyaKurapati26" />
-</p>
 
 <h3 align="center">B.Tech CSE Student | Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
